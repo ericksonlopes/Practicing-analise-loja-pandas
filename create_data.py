@@ -2,8 +2,8 @@ from faker import Faker
 
 faker = Faker('pt-br')
 
-produtos = ['Adaptador', 'Cabo', 'Escritório', 'Gabinete', 'Headset Gamer', 'Mesa', 'Digitalizadora',
-            'Mochila', 'Mouse', 'Gamer', 'Pen', 'Drive', 'Suporte', 'Teclado', 'Mouse', 'Teclado', 'WebCam']
+produtos = ['Fone de ouvido', 'Monitor', 'Gabinete', 'Headset Gamer', 'Impressora', 'Mouse Gamer', 'Pen Drive',
+            'Suporte de Monitor', 'Mouse simples', 'Teclado simples', 'Teclado gamer', 'WebCam']
 
 # Gera um dicinario com
 dicio = []

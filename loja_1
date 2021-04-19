@@ -1,0 +1,62 @@
+id_cliente,nome,idade,uf,id_produto,quatidade,preco
+4037,Davi Caldeira,32,SP,2299,Teclado,660
+7753,Maria Fernanda Vieira,25,SP,2638,Mouse,425
+3903,Henrique da Mota,33,SP,6603,Drive,403
+5581,Gustavo Rodrigues,20,MG,6552,Escritório,498
+3800,Bryan Vieira,36,SP,2299,Teclado,660
+8826,João Vitor das Neves,27,SP,6603,Drive,403
+7914,Isabelly Moreira,37,MG,7528,Suporte,731
+2731,Stella da Costa,29,MG,7528,Suporte,731
+8645,João Felipe Nogueira,36,MG,7533,Cabo,795
+4117,Julia Fernandes,30,MG,4215,Teclado,323
+3247,Natália Costela,40,RJ,6552,Escritório,498
+1452,Lavínia Freitas,32,RJ,6603,Drive,403
+8587,Davi Lucca Pires,23,MG,3008,Headset Gamer,979
+4955,Ana Novaes,38,SP,2299,Teclado,660
+4670,Brenda Moraes,18,RJ,5733,WebCam,545
+5036,Letícia Lima,39,SP,6475,Mouse,936
+6701,Sarah Correia,22,RJ,7533,Cabo,795
+4181,Alexia Pereira,25,SP,4215,Teclado,323
+1480,Guilherme Silva,23,SP,3387,Gamer,131
+6804,Luana Carvalho,39,MG,2638,Mouse,425
+6047,Sr. Pedro Henrique Pires,34,RJ,5733,WebCam,545
+4247,Luigi Nascimento,35,RJ,7528,Suporte,731
+2767,Sra. Mirella da Mota,37,MG,3387,Gamer,131
+2860,Fernando Gomes,24,SP,7533,Cabo,795
+1377,Sr. Danilo Teixeira,37,RJ,7533,Cabo,795
+2340,Sr. Emanuel Aragão,20,RJ,4215,Teclado,323
+6344,Bianca Costela,19,RJ,6552,Escritório,498
+7801,Sabrina Cunha,24,MG,7528,Suporte,731
+3985,Ana Laura Fernandes,33,SP,2638,Mouse,425
+4830,Bryan Costa,26,MG,4710,Pen,703
+7880,Lívia Caldeira,33,MG,6603,Drive,403
+7405,Maria Cecília Rodrigues,19,MG,1512,Adaptador,785
+8710,Lucca Cardoso,27,MG,4710,Pen,703
+5900,Eduardo da Mota,19,RJ,4215,Teclado,323
+8760,Valentina Jesus,21,MG,7528,Suporte,731
+1646,João Vitor das Neves,27,SP,4215,Teclado,323
+2767,Davi Luiz Freitas,19,RJ,6603,Drive,403
+1089,Cecília Ramos,20,RJ,5733,WebCam,545
+6235,Leonardo Araújo,32,RJ,4215,Teclado,323
+7046,Bruna da Costa,23,MG,3163,Mesa,554
+8622,Eduarda Dias,19,SP,7528,Suporte,731
+6363,Rafaela Cardoso,18,RJ,6552,Escritório,498
+4290,Sra. Kamilly Porto,38,SP,2299,Teclado,660
+6126,Dra. Luiza Duarte,32,SP,6475,Mouse,936
+4471,Juan Azevedo,20,RJ,4710,Pen,703
+1792,Evelyn Ramos,21,RJ,1512,Adaptador,785
+2897,Ian da Mata,33,SP,3387,Gamer,131
+5479,Srta. Luna Lopes,27,SP,3163,Mesa,554
+6353,Danilo Caldeira,37,RJ,3008,Headset Gamer,979
+1344,Sra. Rebeca Fernandes,21,MG,4215,Teclado,323
+8571,Gabriela Monteiro,24,RJ,3387,Gamer,131
+2430,Alana da Luz,23,RJ,1512,Adaptador,785
+3115,Srta. Júlia Nogueira,18,SP,3008,Headset Gamer,979
+7282,Dr. Rafael Alves,23,RJ,6552,Escritório,498
+8072,Sr. Enzo Gabriel Silva,26,RJ,3008,Headset Gamer,979
+1914,Luiz Miguel da Luz,25,MG,2093,Digitalizadora,639
+6159,Ana Lívia Jesus,19,SP,4215,Teclado,323
+6202,Paulo Alves,34,SP,6026,Mochila,280
+3465,Davi Lucas Costa,28,SP,3163,Mesa,554
+6703,Isabella Araújo,37,RJ,3008,Headset Gamer,979
+5653,Rafael Almeida,29,SP,3163,Mesa,554
